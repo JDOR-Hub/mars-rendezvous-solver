@@ -1,8 +1,7 @@
 # Rendezvous en Marte - Mecánica Celeste
 
-**Tarea 2: Cálculo de maniobra de rendezvous alrededor de Marte**  
-**Autor:** Juan Diego Ospino Reyes  
-**Cédula:** 1010143974
+**Cálculo de maniobra de rendezvous alrededor de Marte**  
+**Autor:** juandospinor@gmail.com
 
 ---
 
