@@ -1,6 +1,8 @@
 # Mars Rendezvous – Celestial Mechanics
 This Python project solves a rendezvous problem around Mars using orbital mechanics. It calculates the required transfer orbit and ΔV maneuvers for a spacecraft to meet another vehicle after a specified time, given their initial orbital elements.
 
+![lambert_solution.png](lambert_solution.png)
+
 The script implements:
 - Conversion of orbital elements to Cartesian state vectors.
 - Propagation of mean anomaly.
